@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/57594747?s=400&u=da1eec8bf84a62a2ca11230d358dfac0bb000bcd&v=4" alt="png" width="128" height="128"/>
+  <img src="https://i.gifer.com/EmhT.gif" alt="Fun GIF" width="200" height="200"/>
 </p>
 
 <h1 align="center">Proxy-Grabber</h1>
@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  <img src="https://c.top4top.io/p_3136whkwa0.gif" alt="Fun GIF" width="200" height="200"/>
+  <img src="https://i.gifer.com/BHXl.gif" alt="Fun GIF" width="200" height="200"/>
 </p>
 
 <p align="center">
