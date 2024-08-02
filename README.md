@@ -16,14 +16,17 @@
 
 ## 🚀 Table of Contents
 - [✨ Introduction](#-introduction)
-- [🛠️ Features](#%EF%B8%8F-features)
+- [🛠️ Features](#-features)
 - [📦 Installation](#-installation)
-- [⚙️ Usage](#%EF%B8%8F-usage)
+- [⚙️ Usage](#-usage)
 - [🔍 Preview](#-preview)
+- [💬 Feedback](#-feedback)
 - [📜 License](#-license)
 
 ## ✨ Introduction
 **Proxy-Grabber** is a tool designed to help users fetch and manage proxy servers effortlessly. It supports various protocols and offers a user-friendly interface for seamless integration.
+
+> "A great tool for fetching and managing proxies effortlessly!" - *Happy User*
 
 ## 🛠️ Features
 - 🚀 Fetch proxies from multiple sources.
@@ -46,13 +49,33 @@ To start the Proxy-Grabber, run the following command:
 python3 main.py
 ```
 
+Here's a sample output:
+```plaintext
+[INFO] Fetching proxies...
+[INFO] Validating proxies...
+[INFO] Proxies ready to use!
+```
+
 ## 🔍 Preview
 ![index](https://raw.githubusercontent.com/MrG3P5/Proxy-Grabber/main/Screenshot_2023-06-14_21_28_26.png)
+
+## 💬 Feedback
+We love hearing from you! Here are some ways you can provide feedback:
+- Open an issue on [GitHub Issues](https://github.com/MrG3P5/Proxy-Grabber/issues).
+- Join the discussion on our [Discussion Board](https://github.com/MrG3P5/Proxy-Grabber/discussions).
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 📊 Project Statistics
+| Metric | Value |
+|--------|-------|
+| ⭐ Stars | ![GitHub stars](https://img.shields.io/github/stars/MrG3P5/Proxy-Grabber) |
+| 🍴 Forks | ![GitHub forks](https://img.shields.io/github/forks/MrG3P5/Proxy-Grabber) |
+| 🐛 Issues | ![GitHub issues](https://img.shields.io/github/issues/MrG3P5/Proxy-Grabber) |
+| 📄 License | ![GitHub license](https://img.shields.io/github/license/MrG3P5/Proxy-Grabber) |
 
 <p align="center">
   <img src="https://i.top4top.io/p_3136rxft90.gif" alt="Fun GIF" width="200" height="200"/>
