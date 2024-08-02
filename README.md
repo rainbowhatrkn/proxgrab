@@ -5,11 +5,11 @@
 <h1 align="center">Proxy-Grabber</h1>
 
 <p align="center">
-  <a href="https://github.com/MrG3P5"><img title="Author" src="https://img.shields.io/badge/Author-X Trhacknon-red.svg?style=for-the-badge&logo=github"></a>
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/MrG3P5/Proxy-Grabber?style=for-the-badge">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/MrG3P5/Proxy-Grabber?style=for-the-badge">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/MrG3P5/Proxy-Grabber?style=for-the-badge">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/MrG3P5/Proxy-Grabber?style=for-the-badge">
+  <a href="https://github.com/tucommenceapousser"><img title="Author" src="https://img.shields.io/badge/Author-X Trhacknon-red.svg?style=for-the-badge&logo=github"></a>
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/tucommenceapousser/Proxy-Grabber?style=for-the-badge">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/tucommenceapousser/Proxy-Grabber?style=for-the-badge">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/tucommenceapousser/Proxy-Grabber?style=for-the-badge">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/tucommenceapousser/Proxy-Grabber?style=for-the-badge">
 </p>
 
 ---
@@ -61,8 +61,8 @@ Here's a sample output:
 
 ## 💬 Feedback
 We love hearing from you! Here are some ways you can provide feedback:
-- Open an issue on [GitHub Issues](https://github.com/MrG3P5/Proxy-Grabber/issues).
-- Join the discussion on our [Discussion Board](https://github.com/MrG3P5/Proxy-Grabber/discussions).
+- Open an issue on [GitHub Issues](https://github.com/tucommenceapousser/Proxy-Grabber/issues).
+- Join the discussion on our [Discussion Board](https://github.com/tucommenceapousser/Proxy-Grabber/discussions).
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -72,10 +72,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📊 Project Statistics
 | Metric | Value |
 |--------|-------|
-| ⭐ Stars | ![GitHub stars](https://img.shields.io/github/stars/MrG3P5/Proxy-Grabber) |
-| 🍴 Forks | ![GitHub forks](https://img.shields.io/github/forks/MrG3P5/Proxy-Grabber) |
-| 🐛 Issues | ![GitHub issues](https://img.shields.io/github/issues/MrG3P5/Proxy-Grabber) |
-| 📄 License | ![GitHub license](https://img.shields.io/github/license/MrG3P5/Proxy-Grabber) |
+| ⭐ Stars | ![GitHub stars](https://img.shields.io/github/stars/tucommenceapousser/Proxy-Grabber) |
+| 🍴 Forks | ![GitHub forks](https://img.shields.io/github/forks/tucommenceapousser/Proxy-Grabber) |
+| 🐛 Issues | ![GitHub issues](https://img.shields.io/github/issues/tucommenceapousser/Proxy-Grabber) |
+| 📄 License | ![GitHub license](https://img.shields.io/github/license/tucommenceapousser/Proxy-Grabber) |
 
 <p align="center">
   <img src="https://i.top4top.io/p_3136rxft90.gif" alt="Fun GIF" width="200" height="200"/>
